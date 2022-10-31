@@ -8,17 +8,17 @@ The coding behind the Horiseon webpage needed updating with accessibility in min
 
 ## Table of Contents
 
-* [Deployed-Page] (#deployed-page)
-* [Refactor-Process] (#refactor-process)
-* [Additional-Ideas] (#additional-ideas)
-* [Credits] (#credits)
-* [License] (#license)
+* [Deployed Page](#deployed-page)
+* [Refactor Process](#refactor-process)
+* [Additional Ideas](#additional-ideas)
+* [Credits](#credits)
+* [License](#license)
 
 # Deployed Page
 
-[Deployed Page GIF] (./images/Horiseon.gif)
-[Deployed Page Link] (https://lilibear1.github.io/wk1-code-refactor/)
-[Deployed Git Page Link] (https://github.com/LiliBear1/wk1-code-refactor) 
+[Deployed Page GIF](/images/Horiseon.gif)
+[Deployed Page Link](https://lilibear1.github.io/wk1-code-refactor/)
+[Deployed Git Page Link](https://github.com/LiliBear1/wk1-code-refactor) 
 
 ## Refactor Process
 
@@ -49,4 +49,4 @@ The coding behind the Horiseon webpage needed updating with accessibility in min
 
 ## License
 
-An [MIT license] (https://choosealicense.com/licenses/mit/) was used.
+An [MIT license](https://choosealicense.com/licenses/mit/) was used.
